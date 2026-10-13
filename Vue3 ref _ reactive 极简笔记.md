@@ -52,5 +52,3 @@ form.name = "test"
 **单值用 ref，表单用 reactive**
 
 **脚本ref加value，模板全部不用加**
-
-> （注：部分内容由豆包工作 AI 生成）

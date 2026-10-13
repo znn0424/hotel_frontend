@@ -10,11 +10,10 @@
 
 ---
 
-# 一、项目创建方式
+项目创建方式
 > ✅【推荐】脚手架创建（工作/练习首选，自动生成全部配置，减少踩坑）
 
 
-## 方式1：脚手架快速创建新项目
 ```powershell
 # 1. 创建vue+ts模板项目
 npm create vite@latest hotel-front -- --template vue-ts
